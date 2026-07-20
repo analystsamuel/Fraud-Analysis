@@ -33,17 +33,17 @@ Worth noting: this is a synthetic/training dataset (fraud rate ~47.5%), not repr
 ### 1. Executive Overview
 Revenue KPIs, fraud by country, risk level financial exposure, transaction type split (domestic vs international).
 
-![Executive Overview](Screenshot%20(419).png)
+![Executive Overview](Screenshot%20(422).png)
 
 ### 2. Fraud Analysis
 Fraud by merchant category, payment method, account age, and transaction velocity/frequency.
 
-![Fraud Analysis](Screenshot%20(420).png)
+![Fraud Analysis](Screenshot%20(423).png)
 
 ### 3. Risk & Recommendations
 Full fraud indicator breakdown, executive summary, and actionable recommendations.
 
-![Risk & Recommendations](Screenshot%20(421).png)
+![Risk & Recommendations](Screenshot%20(424).png)
 
 ## Key Insights
 - Medium Risk transactions carry the highest financial exposure ($7.1M), ahead of High Risk ($3.3M) — the risk scoring may need a second look, since exposure isn't sitting where you'd typically expect it
