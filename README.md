@@ -11,7 +11,7 @@ The raw dataset needed real work before any analysis could start:
 - Standardized inconsistent formatting across fields
 - Identified and handled nulls/blanks in key columns
 
-Full script: [Fraud Queries.sql](./Fraud%20Queries.sql)
+Full script:[Fraud Queries.sql]
 ## Data Quality Issues Found
 Two problems turned up during profiling, both worth solving properly rather than papering over:
 
