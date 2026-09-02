@@ -11,7 +11,7 @@ The raw dataset needed real work before any analysis could start:
 - Standardized inconsistent formatting across fields
 - Identified and handled nulls/blanks in key columns
 
-Full script: [Fraud Queries.sql](./Fraud Queries.sql)
+Full script: [Fraud Queries.sql](./Fraud%20Queries.sql)
 ## Data Quality Issues Found
 Two problems turned up during profiling, both worth solving properly rather than papering over:
 
@@ -57,9 +57,9 @@ Full fraud indicator breakdown, executive summary, and actionable recommendation
 4. Monitor accounts showing multiple triggered fraud indicators simultaneously
 
 ## Files in This Repo
-- [Dataset](./retail_fraud_detection_100k.csv) — raw dataset
--[Fraud Queries.sql](./Fraud Queries.sql) — SQL cleaning script
-- [Power BI Dashboard](./Fraud%20Analysis.pbix) — Power BI dashboard file
+- * [Dataset](./retail_fraud_detection_100k.csv) — raw dataset
+- * [Fraud Queries.sql](./Fraud%20Queries.sql) — SQL cleaning script
+- * [Power BI Dashboard](./Fraud%20Analysis.pbix) — Power BI dashboard file
 - Screenshots of all 3 dashboard pages
 
 ## Tools Used
